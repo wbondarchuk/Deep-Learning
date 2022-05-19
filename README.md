@@ -1,13 +1,6 @@
 # Convolutional neural networks for artistic style transfer
 
-This repository contains (TensorFlow and Keras) code that goes along
-with a [related blog post][blog-post] and [talk
-(PDF)][talk-slides]. Together, they act as a systematic look at
-convolutional neural networks from theory to practice, using artistic
-style transfer as a motivating example. The blog post provides context
-and covers the underlying theory, while working through the Jupyter
-notebooks in this repository offers a more hands-on learning
-experience.
+
 
 
 ## Setup
